@@ -4,10 +4,12 @@ Compute all pentamino tesselation for the calendar.
 
 ![Task](https://github.com/vsevolod-oparin/tesselation-calendar/blob/main/pics/example.jpg)
 
+## Solutions
+
 * Text Representation: [tesselation.txt](https://github.com/vsevolod-oparin/tesselation-calendar/blob/main/tessellation.txt).
 * Json Representation: [tesselation.json](https://github.com/vsevolod-oparin/tesselation-calendar/blob/main/tessellation.json).
 
-## JSON Structure:
+## JSON Structure
 ```
 {
   date: {
