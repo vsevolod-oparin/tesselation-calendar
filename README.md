@@ -1,4 +1,4 @@
-# tesselation-calendar
+# tessellation-calendar
 
 Compute all pentamino tesselation for the calendar.
 
