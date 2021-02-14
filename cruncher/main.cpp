@@ -15,14 +15,12 @@ struct pentamino {
 const std::string CELL_PENT_MASK_FILE = "cpm.data";
 const std::string TASK_FILE = "task.data";
 
-// todo initialize;
 std::vector<
 	std::vector<
 		std::vector<field_t>
 	>
 > cell_to_pent_to_mask;
 
-// todo initialize;
 std::vector<
 	std::vector<uint16_t>
 > indicies;
@@ -135,13 +133,9 @@ void solve(std::string const& task) {
 }
 
 int main() {
-
 	init();
-
 	for (const auto& kv : task_set) {
 	    solve(kv.first);
 	}
-
-
 	return 0;
 }
