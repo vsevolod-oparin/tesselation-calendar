@@ -21,4 +21,4 @@ Compute all pentamino tesselation for the calendar.
 
 ## Project Structure
 
-Python Notebook [Pentamino.ipynb](https://github.com/vsevolod-oparin/tesselation-calendar/blob/main/Pentamino.ipynb) computes all conversions, flipping, preparing tasks in form of bitmasks, and then parsing results of the bruteforce module. Cpp file [cruncher/main.cpp](https://github.com/vsevolod-oparin/tesselation-calendar/blob/main/cruncher/main.cpp) just bruteforce tiling. Follow the code to understand details.
+Python Notebook [Pentamino.ipynb](https://github.com/vsevolod-oparin/tesselation-calendar/blob/main/Pentamino.ipynb) computes all conversions, flipping, preparing tasks in form of bitmasks, and then parsing results of the bruteforce module. Cpp file [cruncher/main.cpp](https://github.com/vsevolod-oparin/tesselation-calendar/blob/main/cruncher/main.cpp) just bruteforces tiling. Follow the code to understand details.
