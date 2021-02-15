@@ -11,8 +11,8 @@ Compute all pentamino tesselation for the calendar.
 
 ## Solutions for Extended Version
 
-* Text Representation: [tesselation.txt](https://github.com/vsevolod-oparin/tesselation-calendar/blob/main/tessellation_extended.txt).
-* Json Representation: [tesselation.json](https://github.com/vsevolod-oparin/tesselation-calendar/blob/main/tessellation_extended.json).
+* Text Representation: [tesselation_extended.txt](https://github.com/vsevolod-oparin/tesselation-calendar/blob/main/tessellation_extended.txt).
+* Json Representation: [tesselation_extended.json](https://github.com/vsevolod-oparin/tesselation-calendar/blob/main/tessellation_extended.json).
 
 ![Task](https://github.com/vsevolod-oparin/tesselation-calendar/blob/main/pics/extended.jpg)
 
