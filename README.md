@@ -1,6 +1,6 @@
 # tessellation-calendar
 
-Compute all pentamino tesselation for the calendar.
+Compute all pentamino tesselations for the calendar.
 
 ![Task](https://github.com/vsevolod-oparin/tesselation-calendar/blob/main/pics/example.jpg)
 
